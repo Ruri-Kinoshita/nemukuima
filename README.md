@@ -12,4 +12,4 @@
 
 <img width="284" alt="image" src="https://github.com/Ruri-Kinoshita/nemukuima/assets/131644243/bb0704f3-f2d0-451e-aaf1-7fd3684a9338">
 
-ねむくいまの動作映像：https://drive.google.com/file/d/1OWDg8uuIr6I0WoCymsW-iDh28AEZILc1/view?usp=drive_link!
+ねむくいまの動作映像：https://drive.google.com/file/d/1OWDg8uuIr6I0WoCymsW-iDh28AEZILc1/view?usp=drive_link
